@@ -12,7 +12,6 @@ const path = require('path');
 const api_port = 4000;
 const web_port = 4001;
 
-
 //------------ hapi --------------
 
 console.log('Running Environment: ' + env);
