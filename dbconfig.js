@@ -16,4 +16,5 @@ var dbconfig = {
         database : 'moviedb'
     }
     };
+    
 module.exports = dbconfig;
