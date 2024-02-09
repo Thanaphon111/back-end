@@ -9,7 +9,6 @@
     "dev": "nodemon ./index.js localhost 4000",
     "prod": "node index.js"
   },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bbachi/react-nodejs-example.git"
@@ -24,6 +23,7 @@
     "@hapi/hapi": "^21.3.2",
     "@hapi/inert": "^7.1.0",
     "express": "^4.17.1",
+    "hapi-auth-bearer-token": "^8.0.0",
     "http-proxy-middleware": "^1.0.4",
     "mysql": "^2.18.1"
   },
